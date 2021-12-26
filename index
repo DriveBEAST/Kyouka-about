@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale-1">
+    <title>kyouka</title>
+    <link rel="stylesheet" href="stylesheet.css">
+    <link rel="stylesheet" href="stylerespon.css">
+  </head>
+  <body>
+    <header>
+      <div class="contaner">
+        <div class="header-logo">
+          <img class="logo" src="logo.png">
+        </div>
+        <span class="fa fa-bars menu-icon"></span>
+        <div class="header-list">
+          <ul>
+            <li><a href="">概要</a></li>
+            <li><a href="https://drivebeast.github.io/kyouka-plan/">料金</a></li>
+            <li><a href="">特徴</a></li>
+            <li><a href="">つながり一覧</a></li>
+            <li><a href="">Q & A</a></li>
+            <li><a href="">お問い合わせ</a></li>
+          </ul>
+        </div>
+      </div>
+    </header>
+
+    <div class="top-wrapper">
+      <div class="container">
+        <h1>お互いが助け合って支えていく<br>
+        <span>"つながり経済"</span><br>
+        サスティナブルに構築するプラットフォーム</h1>
+        <h2>お墓は故人との縁に想いを馳せ偲ぶことができる場所。<br>
+          誰しもが大事にしたい、けれどもそれがかなわないこともあります。<br>
+          そんな想いにお応えし、お墓に参りきれいな花を供えるサービスです。</h2>
+        <div class="btn-wrapper">
+        <a href="" class="btn signp">個人登録</a>
+        <a href="" class="btn signc">法人登録</a>
+        <a href="" class="btn login">ログイン</a>
+        </div>
+      </div>
+    </div>
+    
+    <div class="about-wrapper">
+      <div class="container">
+        <div class="about-blocks">
+          <div class="about-block">
+            <h4>KYOUKA="つながり経済"</h4>
+            <p>超高齢社会へ変わりつつある現代で、檀家の引き継ぎ問題はどこの家でも起こりうる。<br>
+              ふとお参りに行くと、花が枯れている又は供えられていない墓は多い。<br>
+              核家族化や働き方の多様性に伴い、人生の全ての時間を生まれ育った地域で過ごす割合は以前に比べ格段に減っている。<br>
+              「おばあちゃんに会いにみんなでお墓参りにお花を置きに行こっか」<br>
+              こんな会話は減ってくるのかも知れない。今後益々、家族間での繋がりや地域の繋がりも減ってくるのかも知れない。<br>
+              SDGsという言葉をよく耳にするようになったが、本当の意味での“社会循環エコシステム”とはなにか。<br>
+              だからこそKYOUKAはお互いが助け合って支えていくサスティナブルなプラットフォームを構築します。
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="step-wrapper">
+      <div class="container">
+        <div class="step-blocks">
+          <div class="step-block">
+            <h3>STEP 1</h3>
+            <p>まずは<br>氏名等を登録</p>
+            <img class="flowerab" src="flower24.jpg">
+          </div>
+          <div class="step-block">
+            <h3>STEP 2</h3>
+            <p>アプリページへログイン<br>プラン選択等の詳細設定を</p>
+            <img class="flowerab" src="flower23.jpg">
+          </div>
+          <div class="step-block">
+            <h3>STEP 3</h3>
+            <p>myページにて<br>檀家の状況を確認</p>
+            <img class="flowerab" src="flower22.jpg">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="corpo-wrapper">
+      <div class="container">
+        <div class="corpo-blocks">
+          <div class="corpo-block">
+            <p>※法人登録の場合<br>登録後、担当者から連絡いたします。</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="members-wrapper">
+      <div class="container">
+        <div class="members-blocks">
+          <div class="members-block">
+            <h3>プロジェクトメンバー<br><span>田中 倫子/Tomoko Tanaka</span></h3>
+            <p class="explan">豊川に本社を置く山本製作所有限会社では、YSS.BRANDを立ち上げ『SDGs』を事業に取り入れ地域活性化が企業を元気にし、地域を豊かにすると考えている。<br>
+              そんな中で『ロスフラワー』の現状等をプロジェクトメンバーの堀氏から聞き、本プロジェクトを考案する。</p>
+          </div>
+          <div class="members-block">
+            <h3><span>堀 祐次郎/Yujiro Hori</span></h3>
+            <p class="explan">国内で有数の売り上げを誇る雑貨店にて人財育成、店舗運営など経験。<br>
+              海外で起業し生活した中でミャンマーのインフラストラクチャ―の未完状況と花き市場の美しさとのギャップに真理を感じ、廃棄されていく花に着目する。<br>
+              幼少期の頃の経験を活かし『ロスフラワー』を『ドライフラワー』として人々に提供し、役目を終えたドライフラワーを堆肥に戻す循環型サービスを構築。</p>
+          </div>
+          <div class="members-block">
+            <h3><span>山田 未沙/Misa Yamada</span></h3>
+            <p class="explan">Comming Soon.</p>
+          </div>
+          <div class="members-block">
+            <h3><span>岡田 陽/Akira Okada</span></h3>
+            <p class="explan">ものづくりエンジニアを経て、自分らしさやスキルを活かして新たな価値創造へ活動中。<br>
+              本プロジェクトにおけるアプリ開発を専任しており、テストマーケティングなどの結果含めて今後のアプリ更新等に対応していく。</p>
+          </div>
+          <div class="clear"></div>
+        </div>
+      </div>
+    </div>
+
+    <footer>
+      <div class="contaner">
+        <img src="logo.png">
+        <div class="footer-list">
+          <ul>
+          <li><a href="">概要</a></li>
+          <li><a href="https://drivebeast.github.io/kyouka-plan/">料金</a></li>
+          <li><a href="">特徴</a></li>
+          <li><a href="">つながり一覧</a></li>
+          <li><a href="">Q & A</a></li>
+          <li><a href="https://drivebeast.github.io/kyouka-form/">お問い合わせ</a></li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
